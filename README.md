@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VersatileVats&layout=compact&exclude_repo=LP)](https://github.com/VersatileVats?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VersatileVats&layout=compact&exclude_repo=LP,GFG-Project)](https://github.com/VersatileVats?tab=repositories)
 
 <img textAlign="center" src="https://github-readme-stats.vercel.app/api?username=VersatileVats&hide=prs&show_icons=true&theme=dracula" />
 
