@@ -49,6 +49,7 @@
 
 </div>
 
+## Some highlights
 <a href="https://github.com/VersatileVats/ReferMedi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=ReferMedi" />
 </a>
