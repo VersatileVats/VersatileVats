@@ -50,7 +50,7 @@
 </div>
 
 ## Some highlights
-These are the couple of projects that I am proud of. And what is even great about this, that they are equipped with great, easy-to-understand & informative readme files.
+These are the couple of projects that I am proud of. And what is even great about these is that they are equipped with great, easy-to-understand & informative readme files.
 
 <a href="https://github.com/VersatileVats/ReferMedi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=ReferMedi" />
