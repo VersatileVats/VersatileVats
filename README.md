@@ -58,6 +58,6 @@ These are the couple of projects that I am proud of. And what is even great abou
 <a href="https://github.com/VersatileVats/W4W">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=W4W" />
 </a>
-<a href="https://github.com/VersatileVats/W4W">
+<a href="https://github.com/VersatileVats/PDF-Parser-for-FIR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=PDF-Parser-for-FIR" />
 </a>
