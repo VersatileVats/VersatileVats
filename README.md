@@ -30,7 +30,7 @@
 
 ## 👀 About Me 
 
-- 🔭 I’m currently working on **BRT**, a React based full-stack web application
+- 🔭 I’m currently working on **Refermedi**, a dream project
 - 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 😄 Pronouns: **He/him**
