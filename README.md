@@ -30,7 +30,7 @@
 
 ## 👀 About Me 
 
-- 🔭 I’m currently working on **Refermedi**, a dream project
+- 🔭 I’m currently working on **JCB with forge**, a game based on Atlassian Forge Platform
 - 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 😄 Pronouns: **He/him**
