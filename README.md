@@ -30,8 +30,8 @@
 
 ## 👀 About Me 
 
-- 🔭 I’m currently working on **JCB with forge**, a game based on Atlassian Forge Platform
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on **Time Ranger**, a chrome extension for Devpost platform 
+- 🌱 I’m currently applying **my learnings** & adding onto my learning along the way
 - 👯 I’m looking to collaborate on **open-source projects**
 - 😄 Pronouns: **He/him**
 
