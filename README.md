@@ -30,7 +30,7 @@
 
 ## 👀 About Me 
 
-- 🔭 I’m currently working on **Sui Kucoin Project**, a project using Sui Move language for a web3 game
+- 🔭 I’m currently working on **OpenShift platform** and using RedHat and Intel technologies
 - 🌱 I’m currently applying **my learnings** & adding onto my learning along the way
 - 👯 I’m looking to collaborate on **open-source projects**
 - 😄 Pronouns: **He/him**
