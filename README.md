@@ -48,16 +48,3 @@
 <img textAlign="center" src="https://github-readme-stats.vercel.app/api?username=VersatileVats&hide=prs&show_icons=true&theme=dracula" />
 
 </div>
-
-## Some highlights
-These are the couple of projects that I am proud of. And what is even great about these is that they are equipped with great, easy-to-understand & informative readme files.
-
-<a href="https://github.com/VersatileVats/ReferMedi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=ReferMedi" />
-</a>
-<a href="https://github.com/VersatileVats/W4W">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=W4W" />
-</a>
-<a href="https://github.com/VersatileVats/PDF-Parser-for-FIR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VersatileVats&repo=PDF-Parser-for-FIR" />
-</a>
