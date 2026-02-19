@@ -30,7 +30,7 @@
 
 ## 👀 About Me 
 
-- 🔭 I’m currently working on **Dev 2025**, a project being made for an event
+- 🔭 I’m currently working on **Veb: Browser's trove**, a project that will change the we we browse the web
 - 🌱 I’m currently applying **my learnings** & adding onto my learning along the way
 - 👯 I’m looking to collaborate on **open-source projects**
 - 😄 Pronouns: **He/him**
